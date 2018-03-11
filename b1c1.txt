@@ -1,2 +1,4 @@
 This is a text file created when I'm on child1ofbranch1 branch
 b1c1 comes from branch1child1
+
+Adding phrase one
