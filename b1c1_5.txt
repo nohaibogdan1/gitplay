@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Create a b1c1_5.txt locally
+=======
+Fisier creat mai intai remote
+>>>>>>> 3965a7877f40ef5f9a8cadc027f6dfa4013890d5
