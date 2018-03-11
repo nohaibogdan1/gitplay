@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a file that helps me to see how to resolve conflicts
+=======
+This is a text written locally , which should create some conflict with b1c1_2.txt file created remotely
+>>>>>>> Add b1c1_2.txt created locally
